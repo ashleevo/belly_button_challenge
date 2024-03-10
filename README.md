@@ -1,1 +1,3 @@
 # belly_button_challenge
+
+This week's challenge utilizes Javascript in order to build an interactive dashboard to explore belly button bacteria biodiversity. The data was sourced from Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/. Opening the index.html file will open the dashboard where the first section provides a drop down menu for the user to choose which sample to look at, with a horizontal bar chart providing the data as well as a bubble chart below it. All code was sourced from the Plotly documentation as well as program information provided by the University of California Berkeley Data Analytics Program.
